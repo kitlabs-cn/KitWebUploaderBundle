@@ -1,0 +1,2 @@
+# KitWebUploaderBundle
+webuploader bundle
